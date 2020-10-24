@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Effra';
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+    src: url(/rsrc.php/y0/r/55YsGc9mfi-.eot);
+    src: url(/rsrc.php/y0/r/55YsGc9mfi-.eot) format('embedded-opentype'), url(/rsrc.php/y8/r/78XWq4dLn5M.woff2) format('woff2'), url(/rsrc.php/yK/r/5clNE5nrb-q.woff) format('woff')
+}
+
+@font-face {
+    font-family: 'Effra';
+    font-style: normal;
+    font-weight: 300;
+    font-display: fallback;
+    src: url(/rsrc.php/yn/r/JpNSDuZI5ci.eot);
+    src: url(/rsrc.php/yn/r/JpNSDuZI5ci.eot) format('embedded-opentype'), url(/rsrc.php/y3/r/U5J5EOguUzh.woff2) format('woff2'), url(/rsrc.php/yu/r/NQVIJ5tuJmY.woff) format('woff')
+}
+
+._13s8 {
+    font-family: 'Effra', Helvetica, Arial, sans-serif !important;
+    font-weight: 500 !important
+}
+
+._13si {
+    font-family: 'Effra', Helvetica, Arial, sans-serif !important;
+    font-weight: 300 !important
+}
+
+#bootloader_Ixaga {
+    height: 42px;
+}
+
+.bootloader_Ixaga {
+    display: block !important;
+}
